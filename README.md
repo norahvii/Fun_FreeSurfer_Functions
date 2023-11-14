@@ -117,8 +117,148 @@ In my case, because I edited three volumes, my output looks like this:
 
 ---
 
-I will add more to this guide later, including some popular commands and how to perform FreeSurfer edits. 
+
+## Freesurfer Hotkeys
+
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:20px">Command</b></td>
+    <td><b style="font-size:20px">Action</b></td>
+ </tr>
+ <tr>
+    <td>Alt + N</td> 
+    <td>Navigate Tool</td> 
+ </tr>
+ <tr>
+    <td>Ctrl + E</td> 
+    <td>Recon Edit Tool</td> 
+ </tr>
+ <tr>
+    <td>Alt + E</td> 
+    <td>Voxel Edit Tool</td>
+ </tr>
+ <tr>
+    <td>Ctrl + F</td> 
+    <td>Toggle all surfaces</td>
+ </tr>
+ <tr>
+    <td>Alt + C</td> 
+    <td>Alternate between volumes/surfaces</td> 
+ </tr>
+ <tr>
+    <td>Ctrl + P</td> 
+    <td>Toggle left side menu</td> 
+ </tr>
+ <tr>
+    <td>Ctrl + T</td> 
+    <td>Point set edit</td> 
+ </tr>
+ <tr>
+    <td>Ctrl + R</td> 
+    <td>Reset View</td> 
+ </tr>
+ <tr>
+    <td>Alt + X</td> 
+    <td>Show sagital images</td> 
+ </tr>
+ <tr>
+    <td>Alt + Y</td> 
+    <td>Show axial images</td> 
+ </tr>
+ <tr>
+    <td>Alt + Z</td> 
+    <td>Show coronal images</td> 
+ </tr>
+ <tr>
+    <td>Alt + A/D</td> 
+    <td>Decrease/Increase opacity of currently highlighted volume</td> 
+ </tr>
+ <tr>
+    <td>Ctrl + D</td> 
+    <td>Hide brainmask</td> 
+ </tr>
+ <tr>
+    <td>Alt + F</td> 
+    <td>Toggle currently highlighted surface</td> 
+ </tr>
+ <tr>
+    <td>Alt + U</td> 
+    <td>Show cursor</td> 
+ </tr>
+</table>
+
+You’ll find other shortcuts under [this link](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeviewGuide/FreeviewReference/FreeviewKeyboardShortcuts). I’ll copy the most useful ones here for convenience:
+
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:20px">Command</b></td>
+    <td><b style="font-size:20px">Action</b></td>
+ </tr>
+ <tr>
+     <td>Ctrl + S</td>
+     <td>Save</td>
+ </tr>
+ <tr>
+     <td>Ctrl + Z</td>
+     <td>Undo</td>
+ </tr>
+ <tr>
+     <td>Ctrl + Q</td>
+     <td>Exit Freeview</td>
+ </tr>
+ <tr>
+     <td>Ctrl + O</td>
+     <td>Load Volume</td>
+ </tr>
+ <tr>
+     <td>Up/Down Arrow Keys or PageUp/PageDown</td>
+     <td>Change slice</td>
+ </tr>
+ <tr>
+     <td>Scroll or Drag-Right-Click</td>
+     <td>Zoom In/Zoom Out</td>
+ </tr>
+ <tr>
+     <td>Ctrl + Up/Down/Left/Right (arrow keys)</td>
+     <td>Moving volume (Panning)</td>
+ </tr>
+ <tr>
+     <td>Alt + V</td>
+     <td>Toggle currently highlighted volume</td>
+ </tr>
+ <tr>
+     <td>Shift-Drag Left Click</td>
+     <td>Adjust Contrast/Brightness</td>
+ </tr>
+ <tr>
+     <td>Zoom in at current location</td>
+     <td>Ctrl-Left-Click (or scroll)</td>
+ </tr>
+ <tr>
+     <td>Zoom out at current location</td>
+     <td>Ctrl-Right-Click (or scroll)</td>
+ </tr>
+</table>
+
+When you’re in Voxel/Recon/ROI edit mode:
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:20px">Command</b></td>
+    <td><b style="font-size:20px">Action</b></td>
+ </tr>
+ <tr>
+    <td>Draw / Fill</td>
+    <td>Left Click</td>
+ </tr>
+  <tr>
+    <td>Erase / Erase Fill</td>
+    <td>Shift+Left Click</td>
+ </tr>
+</table>
+
+Above are some popular commands and how to perform FreeSurfer edits. 
 
 Happy FreeSurfing!
-
-- Norah 
