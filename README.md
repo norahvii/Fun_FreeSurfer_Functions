@@ -197,6 +197,10 @@ You’ll find other shortcuts under [this link](https://surfer.nmr.mgh.harvard.e
     <td><b style="font-size:20px">Action</b></td>
  </tr>
  <tr>
+     <td>Ctrl + W</td>
+     <td>Hide White Matter</td>
+ </tr>
+ <tr>
      <td>Ctrl + S</td>
      <td>Save</td>
  </tr>
